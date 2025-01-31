@@ -1,0 +1,22 @@
+{
+  "name": "@u1f992/vivliostyle-util-scale-to-natural-size",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/u1f992/postcss-device-cmyk",
+  "author": "Koutaro Mukai",
+  "license": "GPL-3.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "hast-util-is-element": "^3.0.0",
+    "jimp": "^1.6.0",
+    "unist-util-visit": "^5.0.0"
+  },
+  "devDependencies": {
+    "vfile": "^6.0.3"
+  }
+}

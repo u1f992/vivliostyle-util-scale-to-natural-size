@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@u1f992/vivliostyle-util-scale-to-natural-size": "../",
+    "@vivliostyle/cli": "^8.18.0"
+  }
+}
